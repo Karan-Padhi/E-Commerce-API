@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Product Catalog UI",
+  "description": "A frontend application for managing an e-commerce product catalog, based on a REST API specification. It includes features for product viewing, authentication, and administration for different user roles.",
+  "requestFramePermissions": []
+}
